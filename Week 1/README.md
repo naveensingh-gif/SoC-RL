@@ -35,45 +35,60 @@ If you want to revise some other concepts, this is a good video but long, should
 
 ## Core Concepts
 
-### Resources for Git
+### NumPy
 
-I'd love it if you also learn git for working with projects (it's very useful for version control and team integration)
+NumPy is a Python library used for fast numerical and mathematical operations. It provides support for arrays, matrices, linear algebra, and random number generation.
 
-This is a good lecture on git for beginners
+The [NumPy Official Documentation](https://numpy.org/doc/stable/) is one of the best starting points (the documentations for these three are the go-to places for us in this course).
 
-Git - https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw
+If you find the docs to be a bit too daunting, here are some other resources you can use to learn NumPy from:
 
+- [Bro Code's tutorial on YouTube](https://youtu.be/VXU4LSAQDSc?si=I5O15S9aURCigrq8)
+- [Slides for NumPy]()
+- [NumPy Jupyter Notebook tutorials](https://github.com/adityasanapala/SoC-RL/tree/main/Week%201/2-NumPy)
 
-### Resources for Numpy
+After going through the resources, solve the attached [notebook](https://github.com/adityasanapala/SoC-RL/blob/main/Week%201/2-NumPy/4-NumPy-Exercises.ipynb) to get an idea of what we will be working with.
 
-Numpy Tutorial - [Numpy Official Website](https://numpy.org/doc/2.1/user/quickstart.html)
+### Pandas
 
+Pandas is a Python library used for data analysis and manipulation. It helps work with tables, CSV files, filtering, grouping, and cleaning data efficiently.
 
+The [Pandas Official Documentation](https://pandas.pydata.org/docs/) has a good tutorial for you to learn with plenty of examples.
 
-### Resources for Pandas
+If you find the docs to be a bit too daunting, here are some other resources you can use to learn Pandas from:
 
-Pandas Tutorial - https://youtu.be/vmEHCJofslg?si=1efKYTqQRdDECaNE
+- [Keith Galli's tutorial on YouTube](https://youtu.be/vmEHCJofslg?si=1efKYTqQRdDECaNE)
+- [Corey Schafer's tutorials on YouTube](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=VE7CKuu80kv-kmnf)
+- [Slides for Pandas]()
+- [Pandas Jupyter Notebook tutorials](https://github.com/adityasanapala/SoC-RL/tree/main/Week%201/3-Pandas)
 
-Official Tutorials - https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html
+After going through the resources, solve the attached [notebook](https://github.com/adityasanapala/SoC-RL/blob/main/Week%201/3-Pandas/12-Pandas-Exercise.ipynb) to get an idea of what we will be working with.
 
-### Resources for Matplotlib
+### Matplotlib
 
-You can just look up what plot you want at that moment for matplotlib or 
+Matplotlib is a Python library used for data visualization and plotting graphs. It helps create line charts, bar charts, histograms, and training visualizations.
 
-Official Tutorial - https://matplotlib.org/stable/tutorials/index.html
+The [Official Documentation](https://matplotlib.org/stable/tutorials/index) for Matplotlib is the best place for you to learn with plenty of visuals and examples. You can just look up what plot you want at that moment for Matplotlib in general, its a convenient tool.
 
-### Combined Resources
+Some other good tutorials for Matplotlib:
 
-Numpy, Pandas and Matplotlib in a Playlist - https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=1zoqrRjvGLP4QMmU
+- [Corey Schafer's tutorials on YouTube](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=gBxSl1M9Wi2Nw3T1)
+- [Slides for Matplotlib]()
+- [Matplotlib Jupyter Notebook tutorials](https://github.com/adityasanapala/SoC-RL/tree/main/Week%201/4-Matplotlib)
 
-Some Python Notebooks for your practice can be found in the [Week 0 Folder](./Week%200/)
+After going through the resources, solve the attached [notebook](https://github.com/adityasanapala/SoC-RL/blob/main/Week%201/4-Matplotlib/5-Matplotlib-Exercises.ipynb) to get an idea of what we will be working with.
 
+### Git (optional, but a very useful tool)
+
+I'd love it if you also learn git for working with projects (it's very useful for version control and team integration).
+
+This is a good lecture on git for beginners: [CS50 Lecture on Git](https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw).
 
 ---
 
 ## Practice Notebooks to Submit
 
-
+4 Notebooks - Python, NumPy, Pandas, Matplotlib.
 
 
 
